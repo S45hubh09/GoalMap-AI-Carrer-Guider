@@ -1,0 +1,5 @@
+{
+  "name": "GoalMap AI: Career Counselor",
+  "description": "A personalized career guidance application for students, powered by Gemini 3. It analyzes academic profiles, interests, and constraints to provide realistic, actionable career roadmaps.",
+  "requestFramePermissions": []
+}
